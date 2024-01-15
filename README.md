@@ -150,6 +150,10 @@ No known bugs at this time.
 
 ## Authors
 
+###### Version 4
+
+Mohamed Ajjaji - [Github](https://github.com/mohamedajjaji) / [Twitter](https://twitter.com/mohamedajjaji)
+
 ###### Version 3
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
