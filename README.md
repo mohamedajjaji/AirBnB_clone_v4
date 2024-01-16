@@ -1,9 +1,10 @@
-# <img src="https://www.holbertonschool.com/assets/holberton-logo-simplified-71b02868461c07d54553e4a7cc05d1926681a6755cc19030b0458f2d70ae9909.png" width="30"> AirBnB Clone V.3 - RESTful API
+# <img src="https://avatars.githubusercontent.com/u/108390987" width="30"> AirBnB Clone V4 - Web dynamic
 
 ## Synopsis
-This is the 3rd version of our AirBnB clone project. We will be using a REST API and Flask
+Version 4 of our AirBnB clone project takes a leap forward in sophistication, introducing advanced features and heightened user interactivity.
+In this iteration, we continue our reliance on a REST API, now powered by Flask, to seamlessly handle data transactions.
 
-<p><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png" alt="step2"></p>
+<p><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png" alt="step2"></p>
 
 ## Table of Contents
 * [Environment](#environment)
@@ -152,7 +153,7 @@ No known bugs at this time.
 
 ###### Version 4
 
-Mohamed Ajjaji - [Github](https://github.com/mohamedajjaji) / [Twitter](https://twitter.com/mohamedajjaji)
+- Mohamed Ajjaji - [Github](https://github.com/mohamedajjaji) / [Twitter](https://twitter.com/mohamedajjaji)
 
 ###### Version 3
 
