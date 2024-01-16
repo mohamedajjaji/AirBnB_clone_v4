@@ -1,10 +1,10 @@
-# <img src="https://avatars.githubusercontent.com/u/108390987" width="30"> AirBnB Clone V4 - Web dynamic
+# <img src="assets/alx-logo.png" width="30"> AirBnB Clone V4 - Web dynamic
 
 ## Synopsis
 Version 4 of our AirBnB clone project takes a leap forward in sophistication, introducing advanced features and heightened user interactivity.
 In this iteration, we continue our reliance on a REST API, now powered by Flask, to seamlessly handle data transactions.
 
-<p><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png" alt="step2"></p>
+<p align="center"><img src="assets/hbnb_v4.png" alt="hbnb_v4"></p>
 
 ## Table of Contents
 * [Environment](#environment)
